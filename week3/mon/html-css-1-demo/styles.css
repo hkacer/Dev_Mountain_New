@@ -1,0 +1,43 @@
+* {
+    font-family: "Courier Prime", monospace;
+    /*box-sizing: border-box;*/
+  }
+
+  h1{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+  }
+  h1>span{
+    font-size: medium;
+    margin: 50px ;
+   /* border: 1px solid black;
+    padding: 10px;*/
+
+  }
+
+  p{
+    margin:20px 200px;
+
+  }
+  div{
+    width: 70px;
+    margin: 0 auto;
+  }
+  h2{
+    margin:10px auto;
+  }
+  h4{
+    margin-top: 10px;
+  }
+  img{
+    border: 5px solid black;
+    height: 225px;
+
+  }
+
+  button{
+    background-color: red;
+    color: white;
+  }
+  

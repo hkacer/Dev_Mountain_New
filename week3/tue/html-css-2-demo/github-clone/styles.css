@@ -1,0 +1,80 @@
+/*
+    charcoal background: #2D333B
+    black background: #22272E
+    outlines: #444C56
+    off white text: #CDD9E5
+    light gray text: #ACB9C6
+    orange underline: #EC775C
+    blue repo name: #539BF5
+    yellow JavaScript circle: #F1E05A
+    redorange HTML circle: #E34C26
+*/
+
+/*GLOBAL*/
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flex-r-sb{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*HEADER*/
+header{
+    padding:4px 23px;
+    background-color: gray;
+
+}
+header input{
+    margin-left: 70px;
+}
+
+input{
+    background-color:black;
+    border-radius: 4px;
+}
+nav p{
+    color:black;
+    margin-right: 20px;
+}
+.gh-logo{
+    
+    width: 35px;
+}
+.profile-icon img{
+    height: 40px;
+    width: 40px;
+}
+/*MAIN*/
+.sub-nav{
+    justify-content: flex-end;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+.profile-icon{
+    padding: 25%;
+    width:350px;
+    display: flex;
+
+}
+
+.profile-icon img{
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+}
+.profile-icon h1{
+    font-size: xx-large;
+    color: beige;
+}
+/*REPO NAV*/
+
+
+/*CONTAINER*/
+
+
+/*LEFT PROFILE*/
+
+
+/*RIGHT REPOS*/
